@@ -1,0 +1,52 @@
+Inicio
+
+Levantar do sofá
+Se estiver descalça então
+   colocar um calçado
+Fimse   
+
+Caminhar até o banheiro
+Se porta do banheiro estiver fechada então
+    abrir porta do banheiro
+Fimse
+Entrar no banheiro
+
+Se o banheiro estiver escuro então
+    acender a luz
+Fimse
+
+Caminhar até a pia
+Abrir porta do armário
+Pegar escova de dente
+Pegar pasta de dente
+Fechar porta do armário
+Abrir pasta de dente
+Colocar pasta na escova de dente
+Abrir torneira
+Molhar escova de dente
+Fechar torneira
+
+Escovar os dentes
+Abrir torneira
+Enxaguar a boca
+Lavar a escova de dente
+Fechar torneira
+Abrir porta do armário
+Guardar escova de dente e pasta de dente
+Fechar porta do armário
+Pegar toalha de rosto
+Secar a boca na toalha
+Devolver toalha no lugar
+
+Se luz do banheiro acesa então
+    apagar a luz
+Fimse
+Sair do banheiro
+Fechar a porta
+
+Caminhar até o sofá
+Pegar o controle da TV
+Ligar a TV
+Sentar no sofá
+
+Fimalgoritmo
